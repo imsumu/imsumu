@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumaiya Jannat
+- 👋 Hi, I’m Sumaiya Jannat and a CS undergrad student
 - 👀 I’m interested in Programming
 - My ambition is to be a programmer
 <!---
